@@ -21,9 +21,13 @@ Like this cat flying a plane fleet will fly your drones easily !
 - 50.8 × 50.8 mm, 2-layer
 
 ## Images 
-| Front PCB | Back PCB | Schematic | KiCad PCB Preview |
-|----------|----------|-----------|-------------------|
-| <img src="https://github.com/user-attachments/assets/ceb77bf8-9c5c-4c96-bcab-3c2f6b6d55f7" width="800"/> | <img src="https://github.com/user-attachments/assets/c6e4a7fd-043c-4135-aadb-8902404c28e7" width="800"/> | <img src="https://github.com/user-attachments/assets/89af5f3f-575f-4536-b254-b54a3056ac56" width="800"/> | <img src="https://github.com/user-attachments/assets/483dcebd-a451-481e-bc33-0c4efd97c970" width="800"/> |
+| Front PCB | Back PCB |
+|----------|----------|
+| <img src="https://github.com/user-attachments/assets/ceb77bf8-9c5c-4c96-bcab-3c2f6b6d55f7" width="1000"/> | <img src="https://github.com/user-attachments/assets/c6e4a7fd-043c-4135-aadb-8902404c28e7" width="1000"/> |
+
+| Schematic | KiCad PCB Preview |
+|-----------|-------------------|
+| <img src="https://github.com/user-attachments/assets/89af5f3f-575f-4536-b254-b54a3056ac56" width="1000"/> | <img src="https://github.com/user-attachments/assets/483dcebd-a451-481e-bc33-0c4efd97c970" width="1000"/> |
 
 
 
