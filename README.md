@@ -29,6 +29,8 @@ Like this cat flying a plane fleet will fly your drones easily !
 |-----------|-------------------|
 | <img src="https://github.com/user-attachments/assets/89af5f3f-575f-4536-b254-b54a3056ac56" width="1000"/> | <img src="https://github.com/user-attachments/assets/483dcebd-a451-481e-bc33-0c4efd97c970" width="1000"/> |
 
+## Enclosure (New Addition)
+<img width="592" height="311" alt="Screenshot From 2025-12-13 14-02-03" src="https://github.com/user-attachments/assets/7957d078-cfc0-49e7-869e-e7f131e8175c" />
 
 
 ## Files
